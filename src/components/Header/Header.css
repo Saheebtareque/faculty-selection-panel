@@ -1,0 +1,15 @@
+.header{
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    width:800px;
+    padding: 20px;
+    background-color: moccasin;
+    text-align: center;
+    border-radius: 20px;;
+}
+
+.team {
+     
+    color: rgb(78, 42, 65);
+}
